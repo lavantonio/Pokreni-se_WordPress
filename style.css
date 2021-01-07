@@ -123,12 +123,14 @@ header .logo:hover {
   flex-wrap: wrap;
   margin-bottom: 5px;
 }
-
+#menu-menu-1 {
+  margin-bottom: 0;
+}
 header ul {
   list-style: none;
   display: flex;
   margin: 0 0 5px 0;
-  padding: 20px;
+  padding: 25px 20px 20px 20px;
 }
 
 header li {
